@@ -47,6 +47,9 @@
 
 - awesome Rust packages and apps.
 
+> Rust 学习教程:
+
+- 🔥 https://better-rs.github.io/
 
 
 
