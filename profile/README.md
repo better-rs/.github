@@ -47,12 +47,4 @@
 
 
 
-## Group Chat 🚀
-
-
-> Slack:
-
-- https://join.slack.com/t/gossipcoder/shared_invite/zt-1a3y06e5u-NPYCy4vO5zASquHYHfPA6A
-
-
 
