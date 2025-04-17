@@ -1,3 +1,4 @@
+# Make It Work, Make It Right, Make It Fast
 
 
 ## Related 🍄
@@ -45,6 +46,9 @@
 
 - 🔥 https://better-rs.github.io/
 
+## Reference
+
+- https://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast
 
 
 
